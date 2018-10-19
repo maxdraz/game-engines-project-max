@@ -15,4 +15,4 @@ To generate my noise, I'm going to use the Fast Noise library,
 found at this link:
 https://github.com/Auburns/FastNoise_CSharp
 
-my Unity version for the project is v2018.2.9f
+my Unity version for the project is v2018.2.9f1
