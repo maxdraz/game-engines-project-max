@@ -1,4 +1,5 @@
-Student: Maksymilian Drazewski, C16308766
+Student: 
+Maksymilian Drazewski, C16308766
 
 My goal for the project is to create a beautiful, audioreactive
 3D noise flow field inspired by the game 'The Polynomial'
